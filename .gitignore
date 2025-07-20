@@ -1,0 +1,23 @@
+# Extracted/temporary files
+extracted_locations/
+converted_assets/
+/tmp/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Analysis outputs
+asset_inventory.txt
+usage_report.txt
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
